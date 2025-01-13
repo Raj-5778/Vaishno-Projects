@@ -29,5 +29,6 @@ List any tools or software needed to run the project, such as:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raj-57778/Vaishno project.git
-cd project-name
+   git clone https://github.com/Raj-57778/Vaishno projects.git
+cd Vaishno project
+
